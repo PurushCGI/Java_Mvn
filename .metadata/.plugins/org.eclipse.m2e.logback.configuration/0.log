@@ -1,0 +1,38 @@
+2022-01-03 13:05:31,080 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-03 13:09:50,911 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\POC\JAVA_MVN\mvntest\pom.xml
+2022-01-03 13:09:58,488 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mvn_demo_Jenkin:mvntest:0.0.1-SNAPSHOT @ C:\POC\JAVA_MVN\mvntest\pom.xml.
+2022-01-03 13:10:00,223 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mvntest/src/main/java
+2022-01-03 13:10:00,235 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mvntest/src/test/java
+2022-01-03 13:10:01,993 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2022-01-03 13:10:03,186 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:10:03,187 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
+2022-01-03 13:10:03,192 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:10:03,193 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
+2022-01-03 13:10:16,557 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:10:16,558 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
+2022-01-03 13:10:16,560 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:10:16,561 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
+2022-01-03 13:10:31,729 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-01-03 13:10:38,578 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\POC\JAVA_MVN\mvntest
+2022-01-03 13:10:38,579 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-01-03 13:11:33,854 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mvn_demo_Jenkin:mvntest:0.0.1-SNAPSHOT @ C:\POC\JAVA_MVN\mvntest\pom.xml.
+2022-01-03 13:11:34,554 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:11:34,554 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
+2022-01-03 13:11:34,555 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:11:34,556 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
+2022-01-03 13:11:42,008 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-01-03 13:11:42,121 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\POC\JAVA_MVN\mvntest
+2022-01-03 13:11:42,122 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-01-03 13:12:11,052 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mvn_demo_Jenkin:mvntest:0.0.1-SNAPSHOT @ C:\POC\JAVA_MVN\mvntest\pom.xml.
+2022-01-03 13:12:11,312 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:12:11,313 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
+2022-01-03 13:12:11,314 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:12:11,314 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
+2022-01-03 13:12:17,161 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-01-03 13:12:17,242 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\POC\JAVA_MVN\mvntest
+2022-01-03 13:12:17,242 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-01-03 13:12:34,668 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: mvn_demo_Jenkin:mvntest:0.0.1-SNAPSHOT @ C:\POC\JAVA_MVN\mvntest\pom.xml.
+2022-01-03 13:12:34,975 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:12:34,976 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
+2022-01-03 13:12:34,977 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-03 13:12:34,978 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
