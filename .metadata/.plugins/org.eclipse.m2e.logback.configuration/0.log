@@ -36,3 +36,6 @@
 2022-01-03 13:12:34,976 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\main\resources
 2022-01-03 13:12:34,977 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-03 13:12:34,978 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\POC\JAVA_MVN\mvntest\src\test\resources
+2022-01-03 13:25:20,422 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-01-03 13:25:29,432 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\POC\JAVA_MVN\mvntest
+2022-01-03 13:25:29,433 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B package
